@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://catonahat.com/sitemap.xml
